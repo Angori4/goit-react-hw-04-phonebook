@@ -16,6 +16,7 @@ export const ButtonDelete = styled.button`
   width: 80px;
   font-size: 14px;
   border: none;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
   cursor: pointer;
   background-color: #C3C1C1;
